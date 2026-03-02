@@ -54,10 +54,10 @@ const jsonLd = {
       "telephone": "+1-470-470-7520",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "1014 Garner Rd SW",
-        "addressLocality": "Lilburn",
+        "streetAddress": "3021 Peachtree Rd NW",
+        "addressLocality": "Atlanta",
         "addressRegion": "GA",
-        "postalCode": "30047",
+        "postalCode": "30305",
         "addressCountry": "US"
       },
       "contactPoint": {
