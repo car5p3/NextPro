@@ -154,9 +154,6 @@ const ServiceDetailPage = ({ params }) => {
             </nav>
           </div>
           
-          {/* <p className="mt-6 md:mt-8 max-w-3xl mx-auto text-white/90 text-base md:text-lg">
-                        {`Service | ${toTitleCase(service.title) || "Unknown"}`}
-                    </p> */}
           <div className="mt-8 flex items-center justify-center gap-5">
             <a
               href={`tel:+14704707520`}

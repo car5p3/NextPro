@@ -330,3 +330,110 @@ html {
   height: 100%;
   display: block;
 }
+
+/* CMS blog content */
+.cms-content > * + * {
+  margin-top: 1.75rem;
+}
+
+.cms-content .wp-block-heading {
+  scroll-margin-top: 6rem;
+}
+
+.cms-content h2 {
+  margin-top: 3rem;
+  font-size: 1.6rem;
+  line-height: 1.3;
+  font-weight: 800;
+  color: #0f172a;
+}
+
+.cms-content h3 {
+  margin-top: 2.5rem;
+  font-size: 1.35rem;
+  line-height: 1.35;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.cms-content p {
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  border-radius: 0.75rem;
+  background: #f8fafc;
+  padding: 0.75rem 1rem;
+  font-size: 1.05rem;
+  line-height: 1.9;
+  color: #334155;
+}
+
+.cms-content ul,
+.cms-content ol {
+  margin-top: 1.75rem;
+  margin-bottom: 1.75rem;
+  border-radius: 1rem;
+  background: #f8fafc;
+  padding: 1rem 1.25rem 1rem 2rem;
+}
+
+.cms-content ul {
+  list-style: disc;
+}
+
+.cms-content ol {
+  list-style: decimal;
+}
+
+.cms-content li {
+  margin: 0.5rem 0;
+  padding-left: 0.25rem;
+  font-size: 1.02rem;
+  line-height: 1.9;
+  color: #334155;
+}
+
+.cms-content li::marker {
+  font-weight: 700;
+  color: #1d4ed8;
+}
+
+.cms-content a {
+  color: #1e40af !important; /* text-blue-800 */
+}
+
+.cms-content a:hover {
+  text-decoration: underline !important;
+}
+
+.cms-content strong {
+  font-weight: 800;
+  color: #0f172a;
+}
+
+.cms-content blockquote {
+  margin: 2rem 0;
+  border-left: 4px solid #0ea5e9;
+  border-radius: 0 1rem 1rem 0;
+  background: #eff6ff;
+  padding: 1rem 1.25rem;
+  font-style: italic;
+  color: #334155;
+}
+
+.cms-content figure {
+  margin: 2rem 0;
+}
+
+.cms-content img {
+  width: 100%;
+  height: auto;
+  border: 1px solid #e2e8f0;
+  border-radius: 1rem;
+}
+
+.cms-content figcaption {
+  margin-top: 0.65rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #64748b;
+}
