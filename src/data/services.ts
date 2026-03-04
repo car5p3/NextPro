@@ -77,7 +77,7 @@ export const services = [
           tab_name: "Performance Monitoring",
           heading: "Performance Monitoring",
           description:
-            "Every post, ad, and strategy is tracked and measured. Web Founders USA provides easy to understand reports that show you what's working and where you need improvement. With our approach of continuous optimization, your campaigns are never static.",
+            "Every post, ad, and strategy is tracked and measured. <a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a> provides easy to understand reports that show you what's working and where you need improvement. With our approach of continuous optimization, your campaigns are never static.",
         },
         {
           id: "optimization",
@@ -157,7 +157,7 @@ export const services = [
           tab_name: "Discovery & Audience Profiling",
           heading: "Discovery & Audience Profiling",
           description:
-            "We commence with a very comprehensive discovery session to understand your business, your goals, and your problems. We research your target audience: their demographics, behaviors, motivations, and digital habits. As a digital marketing agency, Web Founders USA uses this insight to create messaging and campaigns that speak directly to the people most likely to become customers, maximizing every ad dollar and productive effort.",
+            "We commence with a very comprehensive discovery session to understand your business, your goals, and your problems. We research your target audience: their demographics, behaviors, motivations, and digital habits. As a digital marketing agency, <a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a> uses this insight to create messaging and campaigns that speak directly to the people most likely to become customers, maximizing every ad dollar and productive effort.",
         },
         {
           id: "competitive-analysis",
@@ -256,7 +256,7 @@ export const services = [
   "No matter if you want to get more traffic to your website engage with people on social media or get better positions in Google. Our content will be the one to give you the results that really count.",
   "Our strategy is different from the old school of keyword stuffing or writing generic content.",
   "We combine meticulous SEO research, audience analysis and industry insights to confirm that every ( article blog webpage or social post ) is not only engaging but also strategically structured to reach the right audience.",
-  "Web Founders USA, always looks forward to innovative ideas and builds a scheme to target the highest visibility of content, strengthen the authority of your brand, and convert readers into loyal customers."
+  "<a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a>, always looks forward to innovative ideas and builds a scheme to target the highest visibility of content, strengthen the authority of your brand, and convert readers into loyal customers."
 ],
 
     tab: {
@@ -366,7 +366,7 @@ export const services = [
 ],
 
     tab: {
-      title: "Why Choose Web Founders USA PPC Services",
+      title: "Why Choose <a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a> PPC Services",
       steps: [
         {
           id: "audit",
@@ -553,7 +553,7 @@ export const services = [
           "Of course, PPC and SEO drive traffic, but conversion rate optimization turns traffic into revenue. Without CRO services, you risk spending your money on visitors who will leave without taking action. This is where CRO makes sure that each click becomes more valuable and each page performs at its fullest potential.",
       },
       {
-        question: "How is Web Founders USA different from other conversion optimization companies?",
+        question: "How is <a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a> different from other conversion optimization companies?",
         answer:
           "We combine design rooted in psychology, deep analytics, UX principles, and real human insights. Instead of changing colors or CTAs, we study how your customers think and make decisions. Our approach puts together creative design, technical analysis, and marketing strategy to drive high impact, long term improvements.",
       },
@@ -648,7 +648,7 @@ export const services = [
           tab_name: "Hosting & Support",
           heading: "Hosting, Security & Ongoing Support",
           description:
-            "Your ecommerce store needs to be fast, secure, and always up. We provide secure web hosting for ecommerce websites, regular monitoring, backups, and performance tuning. We also support brands leveraging free ecommerce website templates, guiding them toward standards of stability. Whether it's ongoing maintenance or launch support, Web Founders USA confirms your store stays updated, optimized, and fully functional.",
+            "Your ecommerce store needs to be fast, secure, and always up. We provide secure web hosting for ecommerce websites, regular monitoring, backups, and performance tuning. We also support brands leveraging free ecommerce website templates, guiding them toward standards of stability. Whether it's ongoing maintenance or launch support, <a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a> confirms your store stays updated, optimized, and fully functional.",
         },
       ],
     },
@@ -701,7 +701,7 @@ export const services = [
     },
 
     introParagraphs: [
-  "At Web Founders USA, we truly believe that extraordinary graphic designing services are the backbone of any brand.",
+  "At <a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a>, we truly believe that extraordinary graphic designing services are the backbone of any brand.",
   "We aim to enable startups and established enterprises to communicate with style, be creative, and strike a chord.",
   "Our creative services for graphic design make sure that every visual, from logos and social media graphics down to brochures and banners, reflects your brand's story and engages your audience with real effectiveness.",
   "Whether you want a fresh look for your website, marketing campaigns, or product packaging, our team delivers affordable graphic design services to small businesses and large brands alike.",
@@ -804,7 +804,7 @@ export const services = [
     },
 
     introParagraphs: [
-  "At Web Founders USA, we believe branding goes far beyond a logo, it’s the emotional and strategic foundation of how customers see, trust, and choose your business.",
+  "At <a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a>, we believe branding goes far beyond a logo, it’s the emotional and strategic foundation of how customers see, trust, and choose your business.",
   "In this competitive and demanding market, businesses win not because they shout the loudest, but because they build clear, consistent, meaningful identities.",
   "Our brand strategy services help you define that identity from the ground up, giving your business a voice, personality, and message that feel unmistakably yours.",
   "Whether you are launching a new company, refreshing your identity, or entering new markets, we create a brand presence that strengthens recognition and builds long term loyalty.",
@@ -923,7 +923,7 @@ export const services = [
 
     introParagraphs: [
   "Your website is the digital home of your business and like any valuable asset, it needs ongoing care, monitoring, and expert support to stay secure and perform at its peak.",
-  "At Web Founders USA, our website maintenance services are designed to protect your investment, enhance performance, and eliminate the stress of technical upkeep.",
+  "At <a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a>, our website maintenance services are designed to protect your investment, enhance performance, and eliminate the stress of technical upkeep.",
   "Whether you run a small business site, an e-commerce store, or a growing digital brand, we make sure your website stays healthy, updated, and fully optimized around the clock.",
   "Our approach goes beyond basic updates.",
   "We provide proactive monitoring, hands on fixes, security hardening, and real time support because a modern website demands consistent attention.",
@@ -1032,7 +1032,7 @@ export const services = [
     },
 
     introParagraphs: [
-  "At Web Founders USA, we help online businesses achieve true success and growth through strategic e-commerce marketing. Whether you are a new startup or a well-known brand, our marketing plan can help you. We focus on increasing visibility, attracting the right visitors, and improving sales.",
+  "At <a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a>, we help online businesses achieve true success and growth through strategic e-commerce marketing. Whether you are a new startup or a well-known brand, our marketing plan can help you. We focus on increasing visibility, attracting the right visitors, and improving sales.",
   "Nowadays, selling online needs more than a working website. It needs a marketing strategy based on data. This strategy should attract the right customers at the right time. That is exactly what our team specializes in.",
   "Our e-commerce marketing services use effective digital strategies. We focus on improving conversions and content marketing for e-commerce. We also use analytics to make every campaign more profitable.",
   "We combine SEO, ads, email marketing, social campaigns, and personalized content. This creates a strong solution for digital marketing and e-commerce.",
@@ -1137,7 +1137,7 @@ export const services = [
     introParagraphs: [
       "Video animation has become a strong way for brands to share their message. Animation helps you share your story. It can explain a complex idea, promote a product, or create a strong visual identity.",
       "No other medium can do this as well.",
-      "At Web Founders USA, we make animations that look great. They also help with engagement, conversions, and brand recall. Our team blends creativity, strategy, and technical expertise to make videos that elevate your brand presence.",
+      "At <a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a>, we make animations that look great. They also help with engagement, conversions, and brand recall. Our team blends creativity, strategy, and technical expertise to make videos that elevate your brand presence.",
       "We create animations that look great and help businesses succeed. Our work supports companies in many fields, from tech startups to well established brands. Our solutions include 2D explainers, 3D animation videos, medical video animations, animated music videos, and interactive VR videos.",
       "We also offer fully customized animated video production services. From our Video Animation services, you can expect high quality storytelling, professional grade visuals, and a seamless production experience to meet your marketing objectives.",
     ],
@@ -1240,7 +1240,7 @@ export const services = [
     introParagraphs: [
   "More than ever, it is about reaching your audience directly.",
   "With the right approach, emails can convert leads into customers, build strategic relationships, and reinforce repeat purchases.",
-  "At Web Founders USA, we help businesses tap into the true potential of email campaigns.",
+  "At <a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a>, we help businesses tap into the true potential of email campaigns.",
   "From ecommerce email marketing to B2B email campaigns, we create the right message to connect with your audience and drive measurable results.",
   "Our full service email marketing agency blends strategy, creativity, and technology.",
   "Whether you are a small business just learning about email marketing for small businesses or a large enterprise looking for B2B email marketing services, we will create a campaign that meets your needs and objectives.",
@@ -1343,8 +1343,7 @@ export const services = [
     },
 
     introParagraphs: [
-  "Web Founders USA considered that professional SEO basically meant ranking number one on search engines; it’s about getting to know your audience and creating trust that lasts.",
-  "Our SEO services are meant to assist companies in every sector, like dentistry and healthcare, even B2B and eCommerce, up to local businesses.",
+  "Our <a class='text-blue-800 hover:underline' href='/service/seo-services'>SEO agency</a> are meant to assist companies in every sector, like dentistry and healthcare, even B2B and eCommerce, up to local businesses.",
   "Being an organic search optimization focused company, we are always up to the mark with our planning that not only boosts the site but also attracts the right customers and eventually gives back huge profits with the help of easy-to-measure results.",
   "We provide custom made services for different platforms like Shopify, WordPress, WooCommerce, Magento, and BigCommerce.",
   "If you seek enterprise SEO services, local SEO marketing, or even specialized solutions like law firm SEO services or medical SEO services, then we mix technical know how with creative content strategies to verify that your business flourishes on the internet.",
@@ -1447,13 +1446,12 @@ export const services = [
           image: "/service-deatil-images/seo.webp",
         },
         introParagraphs: [
-          "Web Founders USA, as a premier E-commerce SEO agency, facilitates the ascension of online retailers in search rankings and converting casual visitors into buyers.",
-          "The e-commerce SEO company industry specific SEO strategies and tactics are formulated to not only increase your product visibility but also to push the adoption of sustainable revenue growth over the longer period and make it to be a part of your business.",
+          "The e-commerce <a class='text-blue-800 hover:underline' href='/service/seo-services'>SEO agency</a> industry specific SEO strategies and tactics are formulated to not only increase your product visibility but also to push the adoption of sustainable revenue growth over the longer period and make it to be a part of your business.",
           "The fact that online stores with thousands of products and seasonal stock changes face different types of challenges in SEO is what we take into account.",
           "The In-House Team of the E-commerce SEO agency consists of skilled individuals who not only create personalized strategies that reply to these hurdles but also make sure of a strong hold on organic long term success.",
           "In case you are operating a small boutique shop or a vast marketplace, cooperating with the best E-commerce SEO agency guarantees that potential buyers will discover your products.",
           "Our visit data based method, added to tested up optimization methods, guarantees measurable effects that influence your profitability.<br></br>Full ecommerce website audit and technical SEO review. Product page enhancement for increased sales. Category page SEO and site structure improvements.<br></br>Keyword research with buyer intent focus. Schema markup for rich product snippets. Content marketing & blog strategy for organic traffic. Link building for ecommerce sites with high authority. Continuous performance tracking and reporting.",
-          "E-commerce SEO services that are comprehensive and made according to the business goals let us help you overshadow your competitors. Our E-commerce seo agencies approach marries technical know how with innovative content strategies to yield long lasting organic growth."
+          "E-commerce <a class='text-blue-800 hover:underline' href='/service/seo-services/'>SEO Services</a> that are comprehensive and made according to the business goals let us help you overshadow your competitors. Our E-commerce seo agencies approach marries technical know how with innovative content strategies to yield long lasting organic growth."
         ],
         features: [
           "Full ecommerce website audit and technical SEO review",
@@ -1566,9 +1564,8 @@ export const services = [
           image: "/service-deatil-images/seo.webp"
         },
         introParagraphs: [
-          "Our B2B SEO agency at Web Founders USA aims to help B2B companies reach potential customers online. We do this by using custom B2B SEO strategies to convert visitors into clients. No matter what type of business you have, we can help.",
           "This includes tech providers, SaaS companies, and other service-based businesses. Our team uses effective SEO techniques.",
-          "We help increase your visibility, bring in more organic traffic, and convert visitors into customers. When you work with a B2B SEO agency, your website will reach the right audience. This will have a clear impact on your business."
+          "We help increase your visibility, bring in more organic traffic, and convert visitors into customers. When you work with a B2B <a class='text-blue-800 hover:underline' href='/service/seo-services'>SEO agency</a>, your website will reach the right audience. This will have a clear impact on your business."
         ],
         features: [
           "Full Website Audit & Technical SEO Review",
@@ -1674,8 +1671,7 @@ export const services = [
           image: "/service-deatil-images/seo.webp"
         },
         introParagraphs: [
-          "Good patient care is the best thing to get success, but is it the only thing? No, your clinic needs real visibility where patients search every day: Google. At Web Founders USA, we help dentists attract more local patients through strategic, simple, and effective SEO.",
-          "The goal of our dental SEO company is to build marketing strategies that help dental clinics rise in search results, achieve consistent appointment bookings, and stand out within highly competitive local markets.",
+          "The goal of our dental <a class='text-blue-800 hover:underline' href='/service/seo-services'>SEO agency</a> is to build marketing strategies that help dental clinics rise in search results, achieve consistent appointment bookings, and stand out within highly competitive local markets.",
           "Our strategy starts with a deep understanding of patient online behavior in searching for dental services. From routine checkups to braces for the kids and even emergency care, Google is the first point of contact.",
           "If your practice is not ranking at the top, you are losing potential patients to your competitors.",
           "This is why working with a reliable dental SEO marketing agency can make all the difference. We make sure that your practice appears exactly where it should: right in front of patients who are actively searching for dental services within your area."
@@ -1820,9 +1816,8 @@ export const services = [
           image: "/service-deatil-images/seo.webp"
         },
         introParagraphs: [
-          "It is very common these days for patients to rely on Google and similar search engines as their primary source of information when searching for doctors, clinics, or medical services.",
           "If your healthcare practice is not ranking high enough in online searches, then you are probably losing a considerable amount of potential patient inquiries.",
-          "Web Founders USA is the place where we offer specialized healthcare SEO agency services to hospitals, clinics, and healthcare providers for the purpose of attracting the right patients, increasing visibility, and eventually growing their practice.",
+          "<a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a> is the place where we offer specialized healthcare <a class='text-blue-800 hover:underline' href='/service/seo-services'>SEO agency</a> services to hospitals, clinics, and healthcare providers for the purpose of attracting the right patients, increasing visibility, and eventually growing their practice.",
           "Our method takes advantage of established SEO techniques along with a thorough comprehension of the medical sector. We concentrate on the development of moral, patient centered SEO that earns respect, rises in search results, and gives measurable returns. By collaborating with a focused healthcare SEO agency, your website will not only be ranked higher in search results but also attract visitors in a great manner leading to their becoming permanent patients."
         ],
         features: [
@@ -1929,8 +1924,7 @@ export const services = [
           image: "/service-deatil-images/seo.webp"
         },
         introParagraphs: [
-          "Big businesses require advanced SEO strategies; they survive by well planned strategies that can grow and yield visible results in diverse areas, markets, and sites.",
-          "At Web Founders USA, we are a committed enterprise SEO agency, helping large companies to get their online presence, bring in organic traffic, and then convert that into good quality leads.",
+          "At <a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a>, we are a committed enterprise <a class='text-blue-800 hover:underline' href='/service/seo-services'>SEO agency</a>, helping large companies to get their online presence, bring in organic traffic, and then convert that into good quality leads.",
           "We know the hard times enterprise websites go through: intricate site structures, hundreds of thousands of web pages, and global or multi regional audiences.",
           "Therefore, we have chosen to partner with the enterprises and that is why our approach is made according to the enterprises, focusing on strategies that are scalable, measurable, and designed to make a real impact. Working with a top enterprise SEO agency guarantees that your brand has a chance to be seen even in competitive markets while at the same time keeping your SEO performance consistent across all platforms."
         ],
@@ -2034,8 +2028,7 @@ export const services = [
           image: "/service-deatil-images/seo.webp"
         },
         introParagraphs: [
-          "A successful shopify needs a great visibility other than good products in it, to get more customers and help them to look at what you offer.",
-          "Our Shopify SEO agency is dedicated to increasing the visibility of Shopify stores in search results, helping them get their share of online sales.",
+          "Our Shopify <a class='text-blue-800 hover:underline' href='/service/seo-services'>SEO agency</a> is dedicated to increasing the visibility of Shopify stores in search results, helping them get their share of online sales.",
           "We implement no universal methods for all, but rather customize our strategies to suit the store's size, catalog, and business goals, which will eventually lead to growth in both rankings and sales.",
           "You are entitled to an expert SEO job done on your Shopify store that understands the platform's unique structure, whether you have just launched your shop or have been running it for years.",
           "Our squad brings together technical expertise, content best practices, and continuous optimization so that your store is always a step ahead of rivals and algorithm changes. We are among the best SEO services for Shopify, and the agencies we represent offer clarity, results, and hassle free interactions to you and your customers."
@@ -2144,8 +2137,7 @@ export const services = [
           image: "/service-deatil-images/seo.webp"
         },
         introParagraphs: [
-          "If your agency wants to offer SEO without hiring in-house specialists, partnering with a reliable white label company gives you the advantage of delivering premium results under your own brand name.",
-          "We support digital agencies, marketing teams, freelancers, and studios that want to expand their service range without increasing their workload. With our expertise as a dedicated white label seo agency, you get a seasoned team working behind the scenes while your clients receive high quality SEO performance that reflects positively on you.",
+          "We support digital agencies, marketing teams, freelancers, and studios that want to expand their service range without increasing their workload. With our expertise as a dedicated white label <a class='text-blue-800 hover:underline' href='/service/seo-services'>SEO agency</a>, you get a seasoned team working behind the scenes while your clients receive high quality SEO performance that reflects positively on you.",
           "Our approach is simple: we do the work, and you take the credit. Whether your clients need on-page optimization, technical improvements, content enhancement, or ongoing reporting, our team handles the full process. Many agencies struggle with time, staffing, or experience in SEO. That’s exactly why our partnership model exists to provide reliable support and long-term scalability so you can serve every client with confidence.",
           "We work closely with agencies of all sizes. Some rely on us for full service execution, while others use our expertise to support only specific parts of their projects. This flexibility helps you maintain control over how you package your offerings, while giving you access to a complete SEO department whenever you need it."
         ],
@@ -2245,10 +2237,9 @@ export const services = [
           image: "/service-deatil-images/seo.webp"
         },
         introParagraphs: [
-          "At Web Founders USA, we work to increase WordPress website visibility across all niches. The industry doesn’t matter; our large, experienced team serves a wide range of businesses with confidence and expertise.",
           "Success is not just about building a website; real success comes from generating strong, consistent traffic.",
           "People notice results when others are reaching your website, and that reach only happens when the right keywords, structure, and linking strategy are used.",
-          "A fully optimised website that actually brings customers is a blessing, and that’s exactly what our WordPress SEO agency focuses on.",
+          "A fully optimised website that actually brings customers is a blessing, and that’s exactly what our WordPress <a class='text-blue-800 hover:underline' href='/service/seo-services'>SEO agency</a> focuses on.",
           "We don’t just optimise new content; we refine existing content as well. From making compelling meta titles and descriptions to polishing the conclusion, we make sure your website has engaging, high quality content enriched with the right keywords for better performance."
         ],
         features: [
@@ -2369,8 +2360,7 @@ export const services = [
           image: "/service-deatil-images/seo.webp"
         },
         introParagraphs: [
-          "If your dealership, auto repair shop, or automotive business is not ranking on Google, you are losing customers every single day.",
-          "Our Automotive SEO Agency helps dealerships, auto shops, and auto parts businesses dominate search results with strategies that are clean, effective, and built for real conversions.",
+          "Our Automotive <a class='text-blue-800 hover:underline' href='/service/seo-services'>SEO agency</a> helps dealerships, auto shops, and auto parts businesses dominate search results with strategies that are clean, effective, and built for real conversions.",
           "As an experienced automotive SEO company, we optimize your online presence so car buyers and service seeking customers find you first.",
           "We work like a true Automotive SEO optimization company, diving deep into your inventory, services, location pages, and customer intent. If you need SEO for automotive dealerships, auto repair SEO services, or SEO for automotive industry brands, our team makes sure your business becomes the top choice in your area.",
           "From auto SEO services to full automotive search engine marketing, we make sure your business outranks competitors and attracts high intent local customers."
@@ -2453,10 +2443,9 @@ export const services = [
           image: "/service-deatil-images/seo.webp"
         },
         introParagraphs: [
-          "In the e-commerce world, where competition is fierce, a Magento store is only the beginning. Specialized SEO strategies based on the Magento platform are required to make you stand out, to bring in more visitors, and finally to convert them into customers.",
-          "Web Founders USA is a pioneer among Magento SEO agencies, and the solutions we provide will improve not only your online store's visibility but also its performance and sales.",
+          "<a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a> is a pioneer among Magento SEO agencies, and the solutions we provide will improve not only your online store's visibility but also its performance and sales.",
           "Our group knows the different structure and characteristics of Magento websites so well that they are able to give real strategies and act as a reliable Magento SEO consultant.",
-          "Our Magento SEO agency services, whether your store is new or established, primarily focus on improving rankings, generating organic traffic, and facilitating the entire shopping experience for your customers.",
+          "Our Magento <a class='text-blue-800 hover:underline' href='/service/seo-services'>SEO agency</a> services, whether your store is new or established, primarily focus on improving rankings, generating organic traffic, and facilitating the entire shopping experience for your customers.",
           "A Magento SEO company will make sure that your e-commerce site is completely optimized and ready to take on the competition in the online marketplace."
         ],
         features: [
@@ -2570,9 +2559,8 @@ export const services = [
           image: "/service-deatil-images/seo.webp"
         },
         introParagraphs: [
-          "As we know, medical websites are often visited by patients checking departments, doctors, appointment timings, and more. Hospital websites are also used by staff for career opportunities or administrative purposes. An optimized medical website with the right keywords can improve your search visibility and increase Google ranking drastically.",
           "Whenever a patient searches for your services, Google will display your website at the top for the relevant keywords.",
-          "Our team at Web Founders USA, a specialized medical SEO agency, works on your website to boost its visibility and attract more views. This ultimately increases patient flow for your hospital, clinic, or healthcare center.",
+          "Our team at <a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a>, a specialized medical <a class='text-blue-800 hover:underline' href='/service/seo-services'>SEO agency</a>, works on your website to boost its visibility and attract more views. This ultimately increases patient flow for your hospital, clinic, or healthcare center.",
           "By using targeted medical SEO services, we help your practice reach the right audience, increase engagement, and improve online credibility."
         ],
         features: [
@@ -2675,8 +2663,7 @@ export const services = [
           image: "/service-deatil-images/seo.webp"
         },
         introParagraphs: [
-          "If your website is not performing as expected, even though you are using the right keywords, there may be hidden issues holding back your visibility.",
-          "At Web Founders USA, our SEO audit agency identifies these problems and helps you fix them with actionable, practical solutions. We don't just optimize your site; our team of experts examines every aspect of your website to detect hurdles that could prevent your site from ranking higher on Google.",
+          "At <a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a>, our SEO audit agency identifies these problems and helps you fix them with actionable, practical solutions. We don't just optimize your site; our team of experts examines every aspect of your website to detect hurdles that could prevent your site from ranking higher on Google.",
           "A thorough SEO audit service can reveal whether low visibility is due to keyword placement, weak backlinks, technical errors, or other optimization challenges. Strong backlinks, for example, are essential for ranking higher, and our audit process makes sure your site leverages every opportunity to improve.",
           "With professional SEO audit services, we help businesses understand exactly where their website stands and what steps are needed to maximize online performance."
         ],
@@ -2802,9 +2789,8 @@ export const services = [
           image: "/service-deatil-images/seo.webp"
         },
         introParagraphs: [
-          "Every day, the hospitality sector gets more advanced, and being on top of it means not only giving outstanding guest experiences but also having a prominent online presence. These days, the first thing that potential visitors do is to search hotels on Google before they proceed to make a reservation. This is the situation when our hotel SEO services become beneficial, which ensure that your hotel is listed at the top of the search results, consequently drawing in more guests, and increasing the number of bookings made.",
           "A modern and attractive website is not enough in isolation. If your hotel does not appear in search engine results, potential guests may never even know about you.",
-          "The hotel SEO agency has the task to make sure that the website of the hotel you might be working with is tactically optimized in terms of the right keywords, meta descriptions, and content structure.",
+          "The hotel <a class='text-blue-800 hover:underline' href='/service/seo-services'>SEO agency</a> has the task to make sure that the website of the hotel you might be working with is tactically optimized in terms of the right keywords, meta descriptions, and content structure.",
           "Collaborating with a hotel SEO agency can help you reach your audience and increase your online visibility.",
           "SEO for hotels goes beyond merely competing for generic keywords. It includes market analysis, guest behavior insights, and the application of tried and tested SEO strategies specifically adapted to the hospitality sector.",
           "Seeking the advice of a seasoned hotel SEO expert, your hotel can surpass rivalries and become one of the top picks among tourists."
@@ -2899,8 +2885,7 @@ export const services = [
           image: "/service-deatil-images/seo.webp"
         },
         introParagraphs: [
-          "Nowadays, customers discover brands from every corner of the globe, your online presence shouldn't be confined to a single language. To grow truly internationally, your business needs robust multilingual SEO services that connect you with audiences in their native language.",
-          "At Web Founders USA, our multilingual SEO agency helps companies expand into new regions, strengthens global rankings, and creates meaningful visibility within more than one market.",
+          "At <a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a>, our multilingual <a class='text-blue-800 hover:underline' href='/service/seo-services'>SEO agency</a> helps companies expand into new regions, strengthens global rankings, and creates meaningful visibility within more than one market.",
           "Professional multilingual SEO companies work with you to stay on top of how search differs around the world, is spoken differently, and expects locally tuned content.",
           "Our team puts in the work so that your website will feel natural, rank correctly, and perform strongly within every target language.",
           "Search behavior changes in every different language. The words, the tone, the queries, and the cultural expectations change, which is why you need a dedicated multilingual SEO agency in the United States. We don't just translate your strategy—we localize it. From keyword research to on page optimization and technical updates, everything is adjusted to the linguistic and cultural requirements of every region.",
@@ -3015,11 +3000,10 @@ export const services = [
           image: "/service-deatil-images/seo.webp"
         },
         introParagraphs: [
-          "Great content is the foundation of any effective digital strategy. Whether your business is small, an enterprise level brand, or a niche focused website, great content can make all the difference in your online presence.",
-          "Our SEO content services at Web Founders USA focus on creating content that ranks but really connects with people.",
+          "Our SEO content services at <a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a> focus on creating content that ranks but really connects with people.",
           "Instead of keyword stuffed robotic paragraphs, we believe in writing content that feels real, reads smoothly, and answers what users are genuinely searching for.",
           "As an SEO content writing company, we mix creativity with SEO strategy to make your website visible, authoritative, and engaging. Each piece is created from scratch with one simple goal in mind: to help your audience trust you and search engines love you.",
-          "Our team at Web Founders USA includes strategists, editors, and expert SEO website content writers who understand the way modern readers think. From landing pages to long-form blogs, service pages, and product descriptions, our SEO content writing services deliver content that boosts rankings and drives real organic traffic—not just impressions."
+          "Our team at <a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a> includes strategists, editors, and expert SEO website content writers who understand the way modern readers think. From landing pages to long-form blogs, service pages, and product descriptions, our SEO content writing services deliver content that boosts rankings and drives real organic traffic—not just impressions."
         ],
         features: [
           "Fully Optimized Website Content Writing Services",
@@ -3129,9 +3113,8 @@ export const services = [
           image: "/service-deatil-images/seo.webp"
         },
         introParagraphs: [
-          "One of the most significant advantages of running a WooCommerce store is that you have complete control over your products, customers, and brand, yet even the top stores cannot perform well if no one knows about them. This is how our WooCommerce SEO agency contributes to your development.",
           "The steps we take to increase your store's visibility on Google are elevating product rankings and pulling buyers who are already doing their searches for what you sell. Structured strategies and open communication, our objective is to make SEO easier, faster, and more effective for your business through our new approach.",
-          "Our WooCommerce SEO services are personalized for store owners who look for long-term growth. We examine your store thoroughly from technical setup, product descriptions, and category structure to ensure everything conforms to SEO standards.",
+          "Our WooCommerce <a class='text-blue-800 hover:underline' href='/service/seo-services'>SEO agency</a> are personalized for store owners who look for long-term growth. We examine your store thoroughly from technical setup, product descriptions, and category structure to ensure everything conforms to SEO standards.",
           "Our WooCommerce SEO service is a complete solution that enhances ranking and boosts conversions, no matter if your problem is low traffic, weak visibility of products, or a poorly optimized website. Rather than making assumptions on what might work, we employ data, competition analysis, and industry standards to establish a plan for your store that is focused on results."
         ],
         features: [
@@ -3235,8 +3218,7 @@ export const services = [
           image: "/service-deatil-images/seo.webp"
         },
         introParagraphs: [
-          "Running a BigCommerce store puts you fully in control of your products, customers, and brand. But even the best designed store will not perform if people cannot find it online.",
-          "That's where our BigCommerce SEO agency helps you out. We specialize in increasing your store's visibility, improving product rankings, and attracting buyers who are actively looking for your kind of products.",
+          "That's where our BigCommerce <a class='text-blue-800 hover:underline' href='/service/seo-services'>SEO agency</a> helps you out. We specialize in increasing your store's visibility, improving product rankings, and attracting buyers who are actively looking for your kind of products.",
           "With clear strategies and continuous optimization, our goal is to make SEO simple, effective, and bring best results for your eCommerce business.",
           "Our BigCommerce SEO services focus on long-term, sustainable growth by auditing your entire store, from technical setup and site structure to product and category pages to make sure everything aligns with proven SEO best practices.",
           "Whether you face low traffic, weak product visibility, or slow conversions, our data driven strategies and competitor analysis help improve rankings and boost sales. With deep expertise in BigCommerce’s unique features, our team delivers personalized solutions rather than generic approaches.",
@@ -3343,9 +3325,8 @@ export const services = [
           image: "/service-deatil-images/seo.webp"
         },
         introParagraphs: [
-          "Running a boutique today is more than just setting up racks or uploading photos. People first search online before they decide where to shop, which means your website plays a huge role in attracting customers.",
-          "A boutique with a strong online presence gets more clicks, more visitors, and eventually more sales. This is where our boutique SEO agency comes in.",
-          "At Web Founders USA, we help boutiques improve their online visibility through simple, effective, and practical SEO strategies. From choosing the right keywords to improving your rankings on Google, our goal is to make sure shoppers find your boutique before they find your competitors.",
+          "A boutique with a strong online presence gets more clicks, more visitors, and eventually more sales. This is where our boutique <a class='text-blue-800 hover:underline' href='/service/seo-services'>SEO agency</a> comes in.",
+          "At <a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a>, we help boutiques improve their online visibility through simple, effective, and practical SEO strategies. From choosing the right keywords to improving your rankings on Google, our goal is to make sure shoppers find your boutique before they find your competitors.",
           "Whether you run a small online shop or a well-known boutique store, our boutique SEO services help you reach customers who are actually searching for your products."
         ],
         features: [
@@ -3448,10 +3429,9 @@ export const services = [
           image: "/service-deatil-images/seo.webp"
         },
         introParagraphs: [
-          "Sharing your message on YouTube is easy. Getting people to actually watch your videos is the real challenge. Millions of videos go live every day, so if your content is not reaching viewers, it’s not your fault—the platform is crowded. This is where our YouTube SEO services and video SEO services help you stand out.",
           "We have got your back if you're a creator, brand, or business looking for ways to increase the number of people watching your content, getting engaged with it, and having it seen more prominently on YouTube.",
           "In order to do this, we first analyze your channel's performance, the keywords that users are typing in the search box, and the types of videos that your competitors are producing, for instance. Based on this, we can advise you on what new content to upload, how to improve your videos, and how to grow your channel in a steady and healthy way.",
-          "Our YouTube SEO agency and video SEO company is specialized in working on everything that helps your content reach the right audience. Besides that, we are also there to help you with your titles, descriptions, tags, and thumbnails by applying our optimization strategies on top of that.",
+          "Our YouTube <a class='text-blue-800 hover:underline' href='/service/seo-services'>SEO agency</a> and video SEO company is specialized in working on everything that helps your content reach the right audience. Besides that, we are also there to help you with your titles, descriptions, tags, and thumbnails by applying our optimization strategies on top of that.",
           "This way the overall structure of your channel will be gone through and your videos will end up being in a better position to appear in the 'YouTube search', 'suggested videos' and also in 'Google search results' areas.",
           "Our expert team keeps an eye on the hottest topics and changes in viewer habits so you will always be the first to know. It doesn't matter if you are imparting knowledge, marketing a product, or providing entertainment; our YouTube SEO service will assist you in reaching a wider audience without having to rely on expensive advertising campaigns."
         ],
@@ -3556,9 +3536,8 @@ export const services = [
           image: "/service-deatil-images/seo.webp"
         },
         introParagraphs: [
-          "Running a roofing business is not easy, especially when every roofer in your area is trying to get the same customers. You may have the skills, tools, and the best team, but if people can’t find your business online, the calls and leads won’t come in. This is exactly where our roofing SEO company helps.",
-          "At Web Founders USA, we understand how tough the competition is in the roofing industry.",
-          "Customers search online before calling any roofing company, and your website needs to show up at the right time, in the right place. Our roofing SEO company helps roofing contractors strengthen their online presence, get more qualified leads, and grow their brand without struggling.",
+          "At <a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a>, we understand how tough the competition is in the roofing industry.",
+          "Customers search online before calling any roofing company, and your website needs to show up at the right time, in the right place. Our roofing <a class='text-blue-800 hover:underline' href='/service/seo-services'>SEO agency</a> helps roofing contractors strengthen their online presence, get more qualified leads, and grow their brand without struggling.",
           "Most roofing companies lose clients because their website is not optimised. Our SEO for roofing companies focuses on fixing that.",
           "We improve your website structure, add the right roofing SEO keywords, optimise speed, work on local visibility, and give your business the push it needs to attract customers.",
           "Whether you want more roof repair calls, new roof installation leads, or insurance roofing clients, our roofing SEO expert team works on simple strategies that actually bring results."
@@ -3661,9 +3640,8 @@ export const services = [
           image: "/service-deatil-images/seo.webp"
         },
         introParagraphs: [
-          "Many businesses don’t have the time or team to manage SEO. That’s where our outsource SEO services step in.",
           "We handle everything from content to backlinks to audits while you focus on your business growth.",
-          "As a reliable outsource SEO agency, we give you the support, updates, and execution your business needs without hiring an in-house team.",
+          "As a reliable outsource <a class='text-blue-800 hover:underline' href='/service/seo-services'>SEO agency</a>, we give you the support, updates, and execution your business needs without hiring an in-house team.",
           "SEO requires time, planning, keyword research, and ongoing work. When a business tries to manage everything alone, results stay slow.",
           "By working with our outsource SEO company, you save time and get a professional team working on your website performance every single day.",
           "Whether you are a marketing agency, ecommerce store, local business, or a startup, our SEO outsourcing services help you stay ahead."
@@ -3768,8 +3746,7 @@ export const services = [
           image: "/service-deatil-images/seo.webp"
         },
         introParagraphs: [
-          "The construction industry is full of competition. Every company wants more project leads, more calls, and more visibility. But if your website is not ranking, clients will keep choosing other contractors.",
-          "Our construction SEO services help you show up when people search for builders, remodelers, or construction services online.",
+          "Our construction <a class='text-blue-800 hover:underline' href='/service/seo-services'>SEO agency</a> help you show up when people search for builders, remodelers, or construction services online.",
           "Our construction SEO company works on simple and effective methods that help construction firms grow online and build a strong digital presence.",
           "Today, homeowners and businesses search online before hiring a contractor. If your website doesn't appear in the top results, your chances of getting the project drop instantly.",
           "Our SEO for construction companies focuses on increasing your online reach, improving visibility, and generating quality leads.",
@@ -3980,7 +3957,7 @@ export const services = [
     desc:
       "Web Founders USA creates SEO-friendly, scalable, and visually engaging websites. Our custom website design company develops unique online experiences that drive traffic and conversions.",
     seo: {
-      title: "Custom-Website-Design - Web Founders USA",
+      title: "Custom Website Design - Web Founders USA",
       description:
         "Custom website design tailored to your business goals, delivering modern layouts, strong branding, and smooth user experiences.",
       keyword: "Custom Website Design Services, Website Design Company, Responsive Web Design, Professional Web Design"  
@@ -3994,9 +3971,9 @@ export const services = [
 
     introParagraphs: [
   "The customers of your business may often get their first impression from your website. A well built and easy to use website may not only attract visitors but also gain their confidence, increase the time they spend at your site, and lead to sales.",
-  "Web Founders USA, as a top custom website design company, concentrates on making websites that are your identity, appeal to your audience, and bring about measurable business growth.",
+  "<a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a>, as a top custom website design company, concentrates on making websites that are your identity, appeal to your audience, and bring about measurable business growth.",
   "Custom website design services approach starts with a thorough grounding in your vision. We are going to assist you by identifying your ideas, goals, and expectations. After that, our team will reshape, develop, and broaden your concepts by combining creativity, functionality, and strategic design.",
-  "The finished product is going to be a one-of-a-kind, captivating, and assuredly visit worthy website. No matter the size of the company, small or large, every project that we handle will involve the various talents of our designers, developers, and SEO specialists."
+  "The finished product is going to be a one of a kind, captivating, and assuredly visit worthy website. No matter the size of the company, small or large, every project that we handle will involve the various talents of our designers, developers, and SEO specialists."
 ],
 
     tab: {
@@ -4014,14 +3991,14 @@ export const services = [
           tab_name: "E-Commerce Website Design",
           heading: "Custom E-Commerce Website Design",
           description:
-            "We deliver personalized e-commerce website design for online e-commerce sites that combine aesthetics with user-friendliness. Our ecommerce solutions emphasize effortless navigation, attractive product display, secure checkout, and mobile compatibility. Our custom Shopify website design brings a lot of sales and customer interaction no matter if you are opening a Shopify store or a self-operated online shop.",
+            "We deliver personalized <a class='text-blue-800 hover:underline' href='/service/ecommerce-web-design/'>e-commerce website design</a> for online e-commerce sites that combine aesthetics with user-friendliness. Our ecommerce solutions emphasize effortless navigation, attractive product display, secure checkout, and mobile compatibility. Our custom Shopify website design brings a lot of sales and customer interaction no matter if you are opening a Shopify store or a self-operated online shop.",
         },
         {
           id: "seo-content",
           tab_name: "SEO-Optimized Content",
-          heading: "SEO-Optimized Content for Maximum Visibility",
+          heading: "SEO Optimized Content for Maximum Visibility",
           description:
-            "A beautiful website is not very helpful if it is hidden from view. As part of our custom web design service, we add SEO friendly content to your pages. This pushes your website a little higher in the search engines, thus bringing in more visitors and turning some of them into customers. From metadata and headings to articles and product descriptions, every piece is made considering both users and search engines.",
+            "A beautiful website is not very helpful if it is hidden from view. As part of our custom web design service, we add <a class='text-blue-800 hover:underline' href='/service/seo-services/'>SEO</a> friendly content to your pages. This pushes your website a little higher in the search engines, thus bringing in more visitors and turning some of them into customers. From metadata and headings to articles and product descriptions, every piece is made considering both users and search engines.",
         },
         {
           id: "industry-designs",
@@ -4035,7 +4012,7 @@ export const services = [
           tab_name: "Affordable Solutions",
           heading: "Affordable Custom Website Design Options",
           description:
-            "We provide low-cost solutions without sacrificing quality. Our economical custom website design and inexpensive custom website design packages are ideal for new businesses and small enterprises that require a professional online presence but do not want to strain their budgets. Being transparent in pricing and offering value driven design makes us one of the most trustworthy custom website design companies in the",
+            "We provide low-cost solutions without sacrificing quality. Our economical custom website design and inexpensive custom website design packages are ideal for new businesses and small enterprises that require a professional online presence but do not want to strain their budgets. Being transparent in pricing and offering value driven design makes us one of the most trustworthy custom <a class='text-blue-800 hover:underline' href='/service/web-development/'>website design companies</a> in the",
         },
         {
           id: "design-process",
@@ -4082,11 +4059,11 @@ export const services = [
           keyword: "b2b web design agency, b2b web design, b2b web design services"
         },
         "hero": {
-          "paragraph": "Your B2B website can be considered the initial contact point for possible customers, and the impression formed is very important. A well designed professional B2B agency website will convey your company's expertise, reliability, and innovation to the visitors and eventually convert them into clients. At Web Founders USA, we create websites that are not just visually appealing but strategically designed for business growth.",
+          "paragraph": "Your B2B website can be considered the initial contact point for possible customers, and the impression formed is very important. A well designed professional B2B agency website will convey your company's expertise, reliability, and innovation to the visitors and eventually convert them into clients. At <a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a>, we create websites that are not just visually appealing but strategically designed for business growth.",
           "image": "/service-deatil-images/custom-website-design.webp"
         },
         "introParagraphs": [
-          "Your B2B website can be considered the initial contact point for possible customers, and the impression formed is very important. A well designed professional B2B agency website will convey your company's expertise, reliability, and innovation to the visitors and eventually convert them into clients. At Web Founders USA, we create websites that are not just visually appealing but strategically designed for business growth.",
+          "Your B2B website can be considered the initial contact point for possible customers, and the impression formed is very important. A well designed professional B2B agency website will convey your company's expertise, reliability, and innovation to the visitors and eventually convert them into clients. At <a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a>, we create websites that are not just visually appealing but strategically designed for business growth.",
           "We provide a full range of B2B web design services to help your business stand out in competitive industries. Our approach works on understanding your target audience and designing a website that supports your sales and marketing goals.",
           "Whether you are a startup or an established enterprise, our B2B web design company builds websites that reflect your brand and get measurable results."
         ],
@@ -5536,10 +5513,10 @@ export const services = [
     },
 
     introParagraphs: [
-  "A powerful online presence begins with a website that looks great but also performs. At Web Founders USA, we build modern, high performing websites crafted to represent your brand, communicate clearly, and convert visitors into paying customers.",
+  "A powerful online presence begins with a website that looks great but also performs. At <a class='text-blue-800 hover:underline' href='/'>Web Founders USA</a>, we build modern, high performing websites crafted to represent your brand, communicate clearly, and convert visitors into paying customers.",
   "Whether you are a startup, a service business, or an established e-commerce brand, at Web Founders USA, we turn your ideas into a fully functional digital experience that brings real results.",
   "By merging clean coding methods, user centered design, and business strategy, our web development team crafts websites that feel and act effortlessly to navigate.",
-  "We believe fast loading speeds, responsive layouts, smooth navigation, and feature rich solutions provide a seamless visitor experience across devices. Be it corporate websites, custom web applications, or ecommerce platforms, we offer solutions supportive of long-term growth and maximum digital presence."
+  "We believe fast loading speeds, responsive layouts, smooth navigation, and feature rich solutions provide a seamless visitor experience across devices. Be it <a class='text-blue-800 hover:underline' href='/service/custom-website-design/'>corporate websites</a>, custom web applications, or ecommerce platforms, we offer solutions supportive of long-term growth and maximum digital presence."
 ],
 
     tab: {
@@ -5634,3 +5611,4 @@ export function getSubCategory(serviceId, subId) {
     service.sub_categories.find((sc) => sc.id === subId || ("slug" in sc && sc.slug === subId)) || null
   );
 }
+

@@ -13,6 +13,12 @@ export async function GET() {
 
       const posts = await res.json();
       allPosts.push(...posts);
+      console.log(`Full response body for page ${page}:`, posts);
+      console.log(`Fetched page ${page} with ${posts.length} posts`);
+      console.log(`Total posts so far: ${allPosts.length}`);
+      console.log(`Response headers: ${JSON.stringify(res.headers)}`);
+      console.log(`Response status: ${res.status}`);
+      console.log(`Response status text: ${res}`);
 
       // If fewer than 100 returned, this is the last page
       if (posts.length < 100) hasMore = false;

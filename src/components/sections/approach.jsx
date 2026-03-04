@@ -23,7 +23,7 @@ const tabList = [
     heading: "Discovery & Planning",
     description: (
       <>
-        At <Link href="/" className="text-blue-900 hover:underline transition-all duration-300">Web Founders USA</Link>, a dedicated and responsive Website Design and Development Company and <Link href="/service/digital-marketing" className="text-blue-900 hover:underline transition-all duration-300">Digital Marketing Agency</Link>, we first understand your business goals, challenges, and audience. Every business is different, so we ask insightful questions to develop custom web solutions that exactly meet your needs. We study your industry, analyze competitors, and discover what drives your customers. Whether you need SEO Optimization Services, the support of a Social Media Marketing Company, or Business Website Development, we provide a clear roadmap that is designed to save time, cost, and resources while maximizing results.
+        At Web Founders USA, a dedicated and responsive Website Design and Development Company and <Link href="/service/digital-marketing" className="text-blue-900 hover:underline transition-all duration-300">Digital Marketing Agency</Link>, we first understand your business goals, challenges, and audience. Every business is different, so we ask insightful questions to develop custom web solutions that exactly meet your needs. We study your industry, analyze competitors, and discover what drives your customers. Whether you need SEO Optimization Services, the support of a Social Media Marketing Company, or Business Website Development, we provide a clear roadmap that is designed to save time, cost, and resources while maximizing results.
       </>
     ),
   },

@@ -134,8 +134,15 @@ const SubServiceDetailPage = ({ params }) => {
             {(service.introParagraphs || []).map((p, idx) => (
               <p key={idx} dangerouslySetInnerHTML={formatHtml(p)} />
             ))}
+            {id === "custom-website-design" && (
+              <Link
+                href={`/service/${id}`}
+                className="border p-2 rounded-lg border-blue-800 bg-blue-800 text-white hover:bg-white hover:text-blue-800 transition-colors inline-block mt-4"
+              >
+                Custom Website Design Services
+              </Link>
+            )}
           </div>
-
           <div className="flex-1 flex justify-center">
             <div className="w-full" style={{ aspectRatio: "1 / 1" }}>
               {service.hero?.image ? (
