@@ -38,6 +38,15 @@ const blogData = [
         date: 'Feb 15, 2026',
         category: 'Social Media',
         url: '/blog/why-businesses-struggle-with-seo-in-2026'
+    },
+    {
+        id: 5,
+        title: 'Why Businesses Struggle With SEO in 2026 And How Professional SEO Services Fix Rankings',
+        thumb: '/blogs/blog 5.webp',
+        author: 'Web Founders USA',
+        date: 'Jan 6, 2026',
+        category: 'Social Media',
+        url: '/blog/the-biggest-social-media-marketing-mistakes-in-2026'
     }
 ]
 import ContactFormTwo from "@/components/sections/ContactFormTwo";
