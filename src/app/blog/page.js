@@ -75,6 +75,15 @@ const blogData = [
         category: 'Social Media',
         url: '/blog/how-local-seo-helps-for-dentists-get-more-patients-in-2026/'
     },
+    {
+        id: 9,
+        title: "Advanced SEO Services USA 2026 – Professional SEO Strategies for Long-Term Success",
+        thumb: '/blogs/blog 9.webp',
+        author: 'Web Founders USA',
+        date: 'Mar 18, 2026',
+        category: 'SEO',
+        url: '/blog/advanced-seo-services-usa-2026'
+    },
 ]
 import ContactFormTwo from "@/components/sections/ContactFormTwo";
 
