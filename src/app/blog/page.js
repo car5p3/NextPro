@@ -165,6 +165,24 @@ const blogData = [
         category: 'Conversion Optimization',
         url: '/blog/conversion-optimization-services-usa-2026'
     },
+    {
+        id: 19,
+        title: "Custom Ecommerce Website Design & Development USA 2026 Growth Solutions",
+        thumb: '/blogs/blog 19.webp',
+        author: 'Web Founders USA',
+        date: 'Mar 20, 2026',
+        category: 'Custom Ecommerce',
+        url: '/blog/custom-ecommerce-website-design-development-usa-2026'
+    },
+    {
+        id: 20,
+        title: "The Biggest Ecommerce Website Errors Killing Sales in 2026 (USA)",
+        thumb: '/blogs/blog 20.webp',
+        author: 'Web Founders USA',
+        date: 'Mar 21, 2026',
+        category: 'Ecommerce Website',
+        url: '/blog/the-biggest-ecommerce-website-errors-killing-sales-in-2026-usa'
+    },
 ]
 import ContactFormTwo from "@/components/sections/ContactFormTwo";
 
