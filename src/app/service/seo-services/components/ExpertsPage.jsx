@@ -70,7 +70,7 @@ const ExpertsPage = ({ params }) => {
         >
           Getting seen online does not require fancy tricks for small shops. The
           important thing is to appear when neighbors search in the area, which
-          is exactly what small business SEO services focus on. Simple steps
+          is exactly what small business Search Engine Optimization experts focus on. Simple steps
           work better than complicated plans. Real outcomes, stable rates, and
           no extended contracts are what you can expect from some suppliers.
         </motion.p>
@@ -221,13 +221,12 @@ const ExpertsPage = ({ params }) => {
               Real SEO Results Not Just Rankings
             </h2>
             <p className="text-gray-600 text-lg leading-relaxed">
-              We do <strong>SEO services</strong> that get you real money,
+              We do <strong>Search engine optimization services</strong> that get you real money,
               qualified leads, and steady traffic, not just pretty reports. We
-              offer <strong>professional SEO services</strong> to both small and
-              large businesses that can grow with them. With our organic SEO
-              services, we want to help your site grow over time. With our
+              offer <strong>Professional SEO solutions</strong> to both small and
+              large businesses that can grow with them. With our Organic growth services, we want to help your site grow over time. With our
               on-page SEO services, we want to make it easier to use. And with
-              our technical SEO services, we want to make it better.
+              our technical Ranking improvement strategy, we want to make it better.
             </p>
           </div>
 
