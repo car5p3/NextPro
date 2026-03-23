@@ -38,7 +38,7 @@ const SuccessStories = () => {
             Success Stories That Speak Louder Than Words
           </p>
           <h2 className="text-3xl font-medium text-[#0749A7]">
-            How Smart SEO Services Drive<br></br>Real Business Growth
+            How Smart Digital visibility services Drive<br></br>Real Business Growth
           </h2>
         </div>
 

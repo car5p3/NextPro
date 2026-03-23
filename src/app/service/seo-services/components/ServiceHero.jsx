@@ -43,7 +43,7 @@ const ServiceHero = () => {
             Imagine clearer online positioning, steady traffic growth, and a
             smarter site structure, all built without tricks. The work stays
             grounded in what lasts, whether it's fine-tuning product pages or
-            guiding strategy through professional <strong>SEO services</strong>.
+            guiding strategy through <b>Professional SEO solutions</b>.
             <br />
             <br />
             You can make real changes by working hard, being open about how you

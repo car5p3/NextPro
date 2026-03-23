@@ -11,8 +11,8 @@ const LocalSEOServices = () => {
           We find the high-intent searches that your customers really use, and
           then we put the terms that will bring in steady calls, visits, and
           sales at the top of the list. This is great for{" "}
-          <strong>professional SEO services</strong> and{" "}
-          <strong>small business SEO services</strong> that want to grow.
+          <strong>Professional SEO solutions</strong> and{" "}
+          <strong>Digital visibility services</strong> that want to grow.
         </>
       ),
     },
@@ -32,7 +32,7 @@ const LocalSEOServices = () => {
           to find things that are keeping it from ranking, missed chances, and
           gaps in your competitors' sites. Then we turn that information into an
           action plan that also helps with{" "}
-          <strong>enterprise SEO services</strong>.
+          <strong>enterprise Digital visibility services</strong>.
         </>
       ),
     },
@@ -41,7 +41,7 @@ const LocalSEOServices = () => {
       title: "On-Page SEO Optimization",
       description: (
         <>
-          With <strong>on page SEO services</strong> and{" "}
+          With <strong>on page Organic growth services</strong> and{" "}
           <strong>SEO copywriting services</strong>, we improve your pages by
           giving them better structure, smarter headings, internal links, and
           on-page signals. This helps Google understand your content and get
@@ -56,7 +56,7 @@ const LocalSEOServices = () => {
         <>
           We fix crawl issues, indexing problems, site speed, Core Web Vitals,
           and architecture so that your website works the way it should. These
-          are advanced <strong>technical SEO services</strong> backed by
+          are advanced <strong>technical Digital visibility services</strong> backed by
           detailed <strong>SEO audit services</strong> that make your site
           easier to find.
         </>
@@ -69,8 +69,8 @@ const LocalSEOServices = () => {
         <>
           We get quality mentions and backlinks from relevant sources to build
           trust, improve domain authority, and move competitive pages up. This is
-          all part of our <strong>professional SEO services</strong> approach and long-term
-          <strong>organic SEO services</strong> mindset, not spammy links.
+          all part of our <strong>Professional SEO solutions</strong> approach and long-term{" "}
+          <strong>Organic growth services</strong> mindset, not spammy links.
         </>
       ),
     },
@@ -95,7 +95,7 @@ const LocalSEOServices = () => {
             The Foundation of Local Growth
           </p>
           <h2 className="text-4xl font-medium text-gray-900">
-            SEO Services Built to Win Rankings, Traffic, and Customers
+            Organic growth services Built to Win Rankings, Traffic, and Customers
           </h2>
         </div>
 

@@ -8,8 +8,8 @@ const SEOProcess = () => {
       description: (
         <>
           Start here see it all laid out. Your spot right now, who else is
-          playing, what's holding you back. Dive into real SEO work with
-          <strong>technical SEO services:</strong> can search engines reach your
+          playing, what's holding you back. Dive into real SEO work with{" "}
+          <strong>technical SEO consulting team:</strong> can search engines reach your
           pages? Are they saving them properly. What about those web performance
           markers people talk about in{" "}
           <strong>seo optimization services</strong>? Map every chance to move
@@ -24,7 +24,7 @@ const SEOProcess = () => {
       description: (
         <>
           After that comes the strategy shaped by our findings through <strong>seo consulting services</strong>. This plan lays out your content path while
-          defining solid targets for <strong>on page seo services</strong>. Whether you run
+          defining solid targets for <strong>on page SEO on-page services</strong>. Whether you run
           a tiny shop or a large team, everything remains structured and
           trackable without confusion.
         </>
@@ -35,7 +35,7 @@ const SEOProcess = () => {
       title: "Execution Sprints",
       description: (
         <>
-          Because speed keeps changing, steps stay small and quick in our <strong>organic seo services</strong> approach. Testing happens quickly, updates come out quickly, performance is closely watched, and changes are made based on what works. Better topic matches and smarter links within pages appear through focused <strong>on page seo services</strong>, and the purpose lines up more closely. This makes natural search support more solid, which increases visibility where it matters most. Each result immediately affects the next move.
+          Because speed keeps changing, steps stay small and quick in our <strong>Organic growth services</strong> approach. Testing happens quickly, updates come out quickly, performance is closely watched, and changes are made based on what works. Better topic matches and smarter links within pages appear through focused <strong>on page Digital visibility services</strong>, and the purpose lines up more closely. This makes natural search support more solid, which increases visibility where it matters most. Each result immediately affects the next move.
         </>
       ),
     },
@@ -52,7 +52,7 @@ const SEOProcess = () => {
             className="text-blue-800 font-bold hover:underline"
             rel="noopener noreferrer"
           >
-            shopify seo services
+            shopify seo shopify services
           </a>{" "}
           for collections and products if you're on{" "}
           <a
@@ -68,7 +68,7 @@ const SEOProcess = () => {
             className="text-blue-800 font-bold hover:underline"
             rel="noopener noreferrer"
           >
-            wordpress seo services
+            wordpress seo wordpress services
           </a>{" "}
           that are built for clean structure and growth.
         </>
@@ -79,7 +79,7 @@ const SEOProcess = () => {
       title: "Authority Building & Trust Signals",
       description: (
         <>
-          Start solid, then comes respect with <strong>organic seo services</strong>. With steady effort, real visibility grows backed by genuine references and clear expertise. Pages rise when they're seen as reliable, guided by consistent signals instead of shortcuts. Strength builds slowly, but it lasts, just like with <strong>best seo services</strong>.
+          Start solid, then comes respect with <strong>Organic growth services</strong>. With steady effort, real visibility grows backed by genuine references and clear expertise. Pages rise when they're seen as reliable, guided by consistent signals instead of shortcuts. Strength builds slowly, but it lasts, just like with <strong>best Digital visibility services</strong>.
         </>
       ),
     },

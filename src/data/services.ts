@@ -1553,7 +1553,7 @@ export const services = [
       {
         id: "b2b-seo",
         title: "B2B SEO Services",
-        desc: "Web Founders USA is a top B2B SEO agency providing specialized SEO services to increase online visibility, traffic, and qualified leads today.",
+        desc: "Web Founders USA is a top B2B SEO agency providing specialized Digital visibility services to increase online visibility, traffic, and qualified leads today.",
         seo: {
           title: "B2B SEO Services - Web Founders USA",
           description: "Drive qualified leads with tailored strategies. B2B SEO Services – Web Founders USA helps businesses grow visibility, trust, and revenue.",
