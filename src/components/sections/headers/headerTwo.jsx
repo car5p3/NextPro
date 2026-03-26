@@ -118,7 +118,7 @@ const HeaderTwo = ({ haveOvcanvsIcon, haveShadow }) => {
                               <ul className="py-3 max-h-[400px] overflow-y-auto custom-scrollbar">
                                 <li key="seo-service-extra">
                                   <Link
-                                    href="/service/seo-service"
+                                    href="/service/seo-services"
                                     className="block w-full text-left px-6 py-2 text-muted-foreground hover:text-primary-foreground hover:bg-gray-100 transition-colors"
                                     onClick={() => setOpenDropdown(false)}
                                   >
