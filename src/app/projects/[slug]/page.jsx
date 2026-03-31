@@ -8,19 +8,41 @@ const BackButton = dynamic(() => import("./BackButton"), { ssr: false });
 
 const API_URL =
   "https://olive-peafowl-546702.hostingersite.com/wp-json/wp/v2/posts?slug=";
+const POSTS_URL =
+  "https://olive-peafowl-546702.hostingersite.com/wp-json/wp/v2/posts";
 
 export async function generateStaticParams() {
-  const res = await fetch(
-    "https://olive-peafowl-546702.hostingersite.com/wp-json/wp/v2/posts"
-  );
-  const posts = await res.json();
-  return posts.map((post) => ({ slug: post.slug }));
+  try {
+    const res = await fetch(POSTS_URL, {
+      next: { revalidate: 60 },
+    });
+
+    if (!res.ok) {
+      console.error(
+        `Failed to fetch project slugs for static params: ${res.status} ${res.statusText}`
+      );
+      return [];
+    }
+
+    const posts = await res.json();
+    return posts.map((post) => ({ slug: post.slug }));
+  } catch (error) {
+    console.error("Failed to collect static params for /projects/[slug]:", error);
+    return [];
+  }
 }
 
 export default async function ProjectPage({ params }) {
-  const res = await fetch(`${API_URL}${params.slug}`, {
-    next: { revalidate: 60 },
-  });
+  let res;
+
+  try {
+    res = await fetch(`${API_URL}${params.slug}`, {
+      next: { revalidate: 60 },
+    });
+  } catch (error) {
+    console.error(`Failed to fetch project "${params.slug}":`, error);
+    return notFound();
+  }
 
   if (!res.ok) return notFound();
 

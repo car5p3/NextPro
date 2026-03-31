@@ -1,0 +1,21 @@
+import BlogCanonical from "./BlogCanonical";
+
+export const metadata = {
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+    },
+  },
+};
+
+export default function BlogLayout({ children }) {
+  return (
+    <>
+      <BlogCanonical />
+      {children}
+    </>
+  );
+}
