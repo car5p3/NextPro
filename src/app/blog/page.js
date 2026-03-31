@@ -207,6 +207,9 @@ import ContactFormTwo from "@/components/sections/ContactFormTwo";
 export const metadata = {
     title: "Blog  - Web Founders USA",
     description: "Read the Web Founders USA blog for expert insights, tips, and strategies on SEO, web design, and digital marketing growth.",
+    alternates: {
+        canonical: "https://www.webfoundersusa.com/blog",
+    },
 
     robots: {
         index: true,
