@@ -14,7 +14,7 @@ export const metadata = {
     title: "2026’s Most Trusted SEO Consulting & Optimization Services in the USA",
     description: "Discover 2026’s most trusted SEO consulting and optimization services in the USA, built to boost rankings, attract more customers, and scale online growth.",
     alternates: {
-    canonical: "https://webfoundersusa.com/blog/2026-most-trusted-seo-consulting-optimization-services",
+    canonical: "https://www.webfoundersusa.com/blog/2026-most-trusted-seo-consulting-optimization-services",
   },
 };
 

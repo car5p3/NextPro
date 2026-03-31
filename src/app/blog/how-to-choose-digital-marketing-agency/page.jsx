@@ -7,7 +7,7 @@ export const metadata = {
   description:
     "Learn how to choose the right digital marketing agency in 2026. Simple tips to find trusted experts for SEO, ads, and real business growth.",
   alternates: {
-    canonical: "https://webfoundersusa.com/blog/how-to-choose-digital-marketing-agency",
+    canonical: "https://www.webfoundersusa.com/blog/how-to-choose-digital-marketing-agency",
   },    
 };
 

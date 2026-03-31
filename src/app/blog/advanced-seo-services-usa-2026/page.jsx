@@ -24,7 +24,7 @@ export const metadata = {
     description:
         "Boost your online visibility with advanced SEO services in 2026. Improve rankings, attract traffic, and drive long-term business growth.",
     alternates: {
-    canonical: "https://webfoundersusa.com/blog/advanced-seo-services-usa-2026",
+    canonical: "https://www.webfoundersusa.com/blog/advanced-seo-services-usa-2026",
   },       
 };
 

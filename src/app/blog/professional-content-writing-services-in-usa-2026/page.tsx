@@ -29,7 +29,7 @@ export const metadata = {
   description:
     "Professional content writing services in USA for 2026—SEO-optimized, engaging, and designed to boost rankings and conversions.",
   alternates: {
-    canonical: "https://webfoundersusa.com/blog/professional-content-writing-services-in-usa-2026",
+    canonical: "https://www.webfoundersusa.com/blog/professional-content-writing-services-in-usa-2026",
   },      
 };
 

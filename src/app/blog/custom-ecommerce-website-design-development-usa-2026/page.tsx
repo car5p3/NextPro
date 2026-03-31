@@ -34,7 +34,7 @@ export const metadata = {
   description:
     "Custom ecommerce website design and development in USA, delivering scalable, user-friendly solutions to boost your business growth in 2026.",
   alternates: {
-    canonical: "https://webfoundersusa.com/blog/custom-ecommerce-website-design-development-usa-2026",
+    canonical: "https://www.webfoundersusa.com/blog/custom-ecommerce-website-design-development-usa-2026",
   },    
 };
 

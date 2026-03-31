@@ -30,7 +30,7 @@ export const metadata = {
   description:
     "Advanced data-driven CRO services in the USA to boost conversions, optimize user journeys, and maximize ROI with proven 2026 strategies.",
   alternates: {
-    canonical: "https://webfoundersusa.com/blog/advanced-conversion-optimization-services-usa-data-driven-cro-for-2026",
+    canonical: "https://www.webfoundersusa.com/blog/advanced-conversion-optimization-services-usa-data-driven-cro-for-2026",
   },  
 };
 

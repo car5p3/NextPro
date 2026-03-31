@@ -11,7 +11,7 @@ export const metadata = {
   description:
     "Is digital marketing a good career in 2026? Discover job opportunities, skills needed, salary potential, and why many choose this fast-growing field.",
   alternates: {
-    canonical: "https://webfoundersusa.com/blog/is-digital-marketing-a-good-career",
+    canonical: "https://www.webfoundersusa.com/blog/is-digital-marketing-a-good-career",
   },  
 };
 

@@ -34,7 +34,7 @@ export const metadata = {
   description:
     "Boost conversions with expert Conversion Optimization Services in USA 2026—turn traffic into real results and maximize ROI.",
   alternates: {
-    canonical: "https://webfoundersusa.com/blog/conversion-optimization-services-usa-2026",
+    canonical: "https://www.webfoundersusa.com/blog/conversion-optimization-services-usa-2026",
   },   
 };
 

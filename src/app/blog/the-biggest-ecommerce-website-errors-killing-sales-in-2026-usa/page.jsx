@@ -38,7 +38,7 @@ export const metadata = {
   description:
     "Biggest ecommerce mistakes in 2026 that hurt sales in the USA—fix issues fast and boost conversions with smart strategies today.",
   alternates: {
-    canonical: "https://webfoundersusa.com/blog/the-biggest-ecommerce-website-errors-killing-sales-in-2026-usa",
+    canonical: "https://www.webfoundersusa.com/blog/the-biggest-ecommerce-website-errors-killing-sales-in-2026-usa",
   },    
 };
 

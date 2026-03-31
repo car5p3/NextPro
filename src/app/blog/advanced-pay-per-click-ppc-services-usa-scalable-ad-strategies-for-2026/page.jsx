@@ -29,7 +29,7 @@ export const metadata = {
   description:
     "Advanced PPC services in the USA delivering scalable ad strategies to boost ROI, traffic, and business growth in 2026.",
   alternates: {
-    canonical: "https://webfoundersusa.com/blog/advanced-pay-per-click-ppc-services-usa-scalable-ad-strategies-for-2026",
+    canonical: "https://www.webfoundersusa.com/blog/advanced-pay-per-click-ppc-services-usa-scalable-ad-strategies-for-2026",
   },      
 };
 

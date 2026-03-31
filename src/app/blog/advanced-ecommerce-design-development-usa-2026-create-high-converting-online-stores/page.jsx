@@ -40,7 +40,7 @@ export const metadata = {
   description:
     "Advanced ecommerce design and development services in USA 2026 to build fast, user-friendly, and high-converting online stores for growth.",
   alternates: {
-    canonical: "https://webfoundersusa.com/blog/advanced-ecommerce-design-development-usa-2026-create-high-converting-online-stores",
+    canonical: "https://www.webfoundersusa.com/blog/advanced-ecommerce-design-development-usa-2026-create-high-converting-online-stores",
   },    
 };
 

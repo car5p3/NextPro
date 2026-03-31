@@ -26,7 +26,7 @@ export const metadata = {
   description:
     "Maximize ROI in 2026 with expert PPC services in the USA—smart targeting, optimized ads, and higher conversions for your business growth.",
   alternates: {
-    canonical: "https://webfoundersusa.com/blog/pay-per-click-advertising-services-in-usa-2026",
+    canonical: "https://www.webfoundersusa.com/blog/pay-per-click-advertising-services-in-usa-2026",
   },    
 };
 
