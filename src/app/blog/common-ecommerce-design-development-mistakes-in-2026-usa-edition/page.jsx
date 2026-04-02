@@ -212,7 +212,7 @@ const Blog22 = () => {
                     Speed matters more than ever. A slow <b>ecommerce website</b> kills conversions.
                   </p>
                   <p>
-                    Many <a href="/" className="text-blue-700 underline">ecommerce website developers</a> add too many scripts, plugins, and heavy designs. It may look fancy, but it slows everything down.
+                    Many <a href="/service/ecommerce-web-design/" className="text-blue-700 underline">ecommerce website developers</a> add too many scripts, plugins, and heavy designs. It may look fancy, but it slows everything down.
                   </p>
                   <p>
                     Even a <b>2–3 second delay</b> can make users leave.
