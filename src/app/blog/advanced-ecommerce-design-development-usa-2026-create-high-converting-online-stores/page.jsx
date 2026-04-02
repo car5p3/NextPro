@@ -481,7 +481,7 @@ const Blog21 = () => {
                   </ul>
                   <div className="bg-indigo-50 border-l-4 border-indigo-600 p-6 rounded-r-xl my-6">
                     <p className="font-semibold text-slate-900">
-                      A good <a href="/service/ecommerce-web-development" className="text-blue-700 underline">ecommerce website development</a> company always builds with SEO in mind.
+                      A good <a href="/" className="text-blue-700 underline">ecommerce website development</a> company always builds with SEO in mind.
                     </p>
                   </div>
                 </div>
