@@ -25,7 +25,7 @@ const Title = ({ children, size, className }) => {
     }
     if (size === "2xl") {
         return (
-            <h5 className={cn(`font-extrabold text-muted-foreground lg:text-2xl md:text-xl text-xl md:leading-[140%] ${className}`)}>{children}</h5>
+            <h2 className={cn(`font-extrabold text-muted-foreground lg:text-2xl md:text-xl text-xl md:leading-[140%] ${className}`)}>{children}</h2>
         )
     }
     else {
