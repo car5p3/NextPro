@@ -1,7 +1,6 @@
 "use client";
 import SlideUp from "@/components/animations/slideUp";
 import { Button } from "@/components/ui/button";
-import Title from "@/components/ui/title";
 import { pricingData } from "@/lib/fackData/pricingData";
 import React, { useState } from "react";
 import PriceCardTwo from "./priceCardTwo";
@@ -41,9 +40,9 @@ const PriceThree = () => {
         <SlideUp>
           <div className="flex flex-col items-center">
             <Button variant="secondary">Pricing</Button>
-            <Title size={"5xl"} className="pt-6 max-w-full text-center">
+            <h1 className="font-extrabold text-muted-foreground lg:text-5xl sm:text-4.5xl text-3xl lg:leading-[140%] sm:leading-[130%] leading-[120%] pt-6 max-w-full text-center">
               OUR PACKAGES
-            </Title>
+            </h1>
             <p className="pt-[18px] text-gray-600 text-center max-w-[757px] font-semibold">
               No matter what budget type you have – we welcome you
             </p>
@@ -53,11 +52,10 @@ const PriceThree = () => {
                 <button
                   key={cat}
                   onClick={() => setActiveCategory(cat)}
-                  className={`px-4 py-2 rounded-md text-sm font-bold uppercase tracking-wide border transition ${
-                    activeCategory === cat
+                  className={`px-4 py-2 rounded-md text-sm font-bold uppercase tracking-wide border transition ${activeCategory === cat
                       ? "bg-primary text-white border-primary shadow"
                       : "bg-white text-primary border-transparent hover:bg-[#E2E7FF] hover:text-primary"
-                  }`}
+                    }`}
                   style={{ minWidth: 110 }}
                 >
                   {cat}
@@ -71,34 +69,34 @@ const PriceThree = () => {
             <div className="grid xl:grid-cols-3 lg:grid-cols-2 grid-cols-1 gap-y-10  pt-2 lg:px-20">
               {filteredData.length > 0 ? (
                 filteredData.map(
-  ({
-    additionalAdds,
-    id,
-    info,
-    isTag,
-    link,
-    plan_name,
-    price,
-    old_price, // <-- Add this
-    services,
-  }) => (
-    <PriceCardTwo
-      key={id}
-      id={id}
-      additionalAdds={additionalAdds}
-      info={info}
-      isTag={isTag}
-      link={link}
-      plan_name={plan_name}
-      price={price}
-      old_price={old_price} // <-- Pass as prop
-      services={services}
-      cardThree={true}
-      isAnimating={isAnimating}
-      isChecked={isChecked}
-    />
-  )
-)
+                  ({
+                    additionalAdds,
+                    id,
+                    info,
+                    isTag,
+                    link,
+                    plan_name,
+                    price,
+                    old_price, // <-- Add this
+                    services,
+                  }) => (
+                    <PriceCardTwo
+                      key={id}
+                      id={id}
+                      additionalAdds={additionalAdds}
+                      info={info}
+                      isTag={isTag}
+                      link={link}
+                      plan_name={plan_name}
+                      price={price}
+                      old_price={old_price} // <-- Pass as prop
+                      services={services}
+                      cardThree={true}
+                      isAnimating={isAnimating}
+                      isChecked={isChecked}
+                    />
+                  )
+                )
 
               ) : (
                 <div className="col-span-full text-center text-gray-400 font-semibold">

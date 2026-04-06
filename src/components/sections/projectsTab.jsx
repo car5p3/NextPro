@@ -126,11 +126,11 @@ const ProjectsTab = () => {
       <p className="text-primary font-semibold mb-2 text-center">
         Featured Projects
       </p>
-      <h2 className="text-4xl sm:text-5xl font-bold mb-10 leading-tight text-center">
+      <h1 className="text-4xl sm:text-5xl font-bold mb-10 leading-tight text-center">
         <span className="bg-gradient-to-r from-primary to-secondary text-transparent bg-clip-text">
           Our Portfolio
         </span>
-      </h2>
+      </h1>
 
       {/* Category Filter Buttons */}
       <div className="flex flex-wrap justify-center gap-4 mb-6">

@@ -31,11 +31,11 @@ const HeaderShortInfo = () => {
                 }
             </ul>
             <div className='px-12.5 pb-12.5'>
-                <h5 className='text-muted-foreground font-semibold'>Get In Touch</h5>
+                <h1 className='text-muted-foreground font-semibold'>Get In Touch</h1>
                 <div className='text-[#7C848C] mb-[26px]'>
-                    <p>243, Eastern Parkway, Brooklyn, New York</p>
-                    <p> <Link href={"mailto:ask@next.com"}>ask@next.com</Link></p>
-                    <p>Ph:<Link href={"tel:17186385000"}>+1.718.638.5000</Link></p>
+                    <p>3021 Peachtree Rd NW Atlanta, GA 30305, USA</p>
+                    <p> <Link href={"mailto:ask@next.com"}>info@webfoundersusa.com</Link></p>
+                    <p>Ph:<Link href={"tel:+14704707520"}>+1 470-470-7520</Link></p>
                 </div>
                 <SocialIcons/>
             </div>
